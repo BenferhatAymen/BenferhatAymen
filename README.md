@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Python,Web Scraping,Flutter**
+- 💬 Ask me about **Python,Web Scraping,Discord.py,Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
