@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benferhataymen&show_icons=true&locale=en" alt="benferhataymen" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=BenferhatAymen&" alt="benferhataymen" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=BenferhatAymenenf&theme=onedark)](https://git.io/streak-stats)
