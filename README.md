@@ -18,4 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benferhataymen&show_icons=true&locale=en&layout=compact" alt="benferhataymen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benferhataymen&show_icons=true&locale=en" alt="benferhataymen" /></p>
-<img src="https://streak-stats.demolab.com?user=BenferhatAymen&theme=onedark" />
+<img src="https://streak-stats.demolab.com?user=BenferhatAymen" />
